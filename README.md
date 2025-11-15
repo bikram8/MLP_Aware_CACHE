@@ -1,4 +1,4 @@
-# MLP-Aware Cache Design in SimpleScalar
+# MLP-Aware Cache Design Replacement policy in SimpleScalar
 
 ![SimpleScalar](https://img.shields.io/badge/SimpleScalar-v3.0-blue)
 ![Language](https://img.shields.io/badge/Language-C-orange)
